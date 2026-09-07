@@ -1,6 +1,8 @@
 # DitherPy
 Customize your images with a dithering effect. Built with Python, just launch the script, load the image, configure and save!
 
+<img width="946" height="473" alt="Screenshot_20260907_173506" src="https://github.com/user-attachments/assets/489f733d-98e8-40e0-94e7-1d2d29e2da5b" />
+
 
 # Dithering Tool
 
@@ -34,6 +36,3 @@ source venv/bin/activate
 
 # Install dependencies
 pip install PyQt5 Pillow
-
-
-<img width="946" height="473" alt="image" src="https://github.com/user-attachments/assets/dde7c913-812d-44f9-a811-e612e5ebec5f" />
