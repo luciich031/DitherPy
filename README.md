@@ -27,7 +27,7 @@ A dithering application built with **PyQt5** and **Pillow**.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/dithering-tool.git
+git clone https://github.com/luciich031/DitherPy
 cd dithering-tool
 
 # Create a virtual environment (recommended)
