@@ -33,4 +33,7 @@ python -m venv venv
 source venv/bin/activate
 
 # Install dependencies
-pip install PyQt5 Pillow   
+pip install PyQt5 Pillow
+
+
+<img width="946" height="473" alt="image" src="https://github.com/user-attachments/assets/dde7c913-812d-44f9-a811-e612e5ebec5f" />
